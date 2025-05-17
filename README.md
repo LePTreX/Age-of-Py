@@ -1,5 +1,6 @@
 # Age-of-Py
-Age of War clone realised with PyGame and OpenGL
+Age of War clone realised with PyGame, PyOpenGL, PyOpenGL_accelerate and numpy. 
+
 
 List of function:
 
