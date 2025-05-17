@@ -10,5 +10,9 @@ Parallax Background
 Different ages and units
 
 
-(3d objects) forword buildings
-
+(3d objects) forward buildings
+Shadows
+Start menu with settings
+Changable backgrounds
+Multiplayer
+Options for Skinpacks
