@@ -3,6 +3,7 @@ Age of War clone realised with PyGame, PyOpenGL, PyOpenGL_accelerate and numpy.
 
 
 List of function:
+Windows and MacOS support
 
 Parallax Background 
   - design by Mac
