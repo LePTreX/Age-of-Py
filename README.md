@@ -15,11 +15,15 @@ Different ages and units
 (3d objects) forward buildings
 
 Shadows
-
-Start menu with settings
+Blood
+projectiles 
+Startmenu with settings
 
 Changable backgrounds
 
 Multiplayer
 
 Options for Skinpacks
+
+debugging/logging
+
