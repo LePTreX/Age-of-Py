@@ -15,8 +15,11 @@ Different ages and units
 (3d objects) forward buildings
 
 Shadows
+
 Blood
+
 projectiles 
+
 Startmenu with settings
 
 Changable backgrounds
