@@ -3,7 +3,6 @@ Age of War clone realised with PyGame, PyOpenGL, PyOpenGL_accelerate and numpy.
 
 
 List of function:
-Windows and MacOS support
 
 Parallax Background 
   - design by Mac
@@ -16,17 +15,10 @@ Different ages and units
 
 Shadows
 
-Blood
-
-projectiles 
-
-Startmenu with settings
+Start menu with settings
 
 Changable backgrounds
 
 Multiplayer
 
 Options for Skinpacks
-
-debugging/logging
-
